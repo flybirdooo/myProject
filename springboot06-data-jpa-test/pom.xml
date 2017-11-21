@@ -16,7 +16,7 @@
 		<java.version>1.7</java.version>
 	</properties>
 
-	<!-- 配置依赖关系 -->
+	<!-- 配置依赖关系##### -->
 	<dependencies>
 		<!-- 配置WEB启动器(内嵌tomcat、SpringMVC、jackson) -->
 		<dependency>
